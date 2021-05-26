@@ -26,12 +26,12 @@ for this Nanodegree program.
 
 • Linear Algebra: Matrix manipulation and multiplication
 
-Data wrangling:
+## Data wrangling:
 • Accessing database, CSV, and JSON data
 
 • Data cleaning and transformations using pandas and Sklearn
 
-Data visualization with matplotlib:
+## Data visualization with matplotlib:
 • Exploratory data analysis and visualization
 
 • Explanatory data visualizations and dashboards
