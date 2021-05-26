@@ -14,8 +14,9 @@ for this Nanodegree program.
 
 • Comfortable with using the Terminal, version control in Git, and using GitHub
 
-Probability and Statistics:
+## Probability and Statistics:
 • Descriptive Statistics: Calculating measures of center and spread, estimation distributions
+
 • Inferential Statistics: Sampling distributions, hypothesis testing
 
 • Probability: Probability theory, conditional probability
